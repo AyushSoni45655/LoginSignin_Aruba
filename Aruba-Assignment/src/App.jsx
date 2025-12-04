@@ -4,7 +4,7 @@ import Applayout from "./LayOut/Applayout"
 import SignIn from "./pages/SignIn"
 import SignUp from './pages/SignUp'
 import Home from "./pages/Home"
-import PrivateRoute from "./routes/privateRoute"
+import PrivateRoute from "./routes/PrivateRoute"
 import PublicRoute from "./routes/PublicRoute"
 function App() {
 const router = createBrowserRouter([
